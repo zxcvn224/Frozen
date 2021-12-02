@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\bin\Debug\netcoreapp3.1\Frozen.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\Frozen\obj\Debug\netcoreapp3.1\Frozen.genruntimeconfig.cache
