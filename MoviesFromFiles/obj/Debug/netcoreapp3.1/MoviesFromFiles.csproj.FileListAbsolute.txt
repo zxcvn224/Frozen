@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.exe
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\bin\Debug\netcoreapp3.1\MoviesFromFiles.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.dll
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MoviesFromFiles\MoviesFromFiles\obj\Debug\netcoreapp3.1\MoviesFromFiles.genruntimeconfig.cache
